@@ -127,77 +127,8 @@ h1 {
     padding-right: 5px;
   }
   
-  @media screen and (max-width: 682px) {
-    .container {
-      margin: 50px auto;
-      padding: 10px;
-    }
-    .output {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      margin-top: 20px;
-    }
-      input {
-        width: 100%;
-        background-repeat: no-repeat;
-        /* background-size: contain; */
-        background-image: url('./wesson-wang-y0_vFxOHayg-unsplash.jpg');
-        background-color: #ffffff;
-        padding: 8px;
-        color: white;
-        font-size: 16px;
-        border: 1px solid #000000;
-        border-radius: 5px;
-      }
-      .output-box {
-        width:47%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        box-shadow: 0 0 5px rgba(106, 137, 204, 0.3);
-        transition: box-shadow 0.3s ease;
-        border-radius: 5px;
-        background-color: rgba(106, 137, 204, 0.2);
-        margin-bottom: 10px;
-        padding: 10px;
-        font-size: 18px;
-        background-color: #007bff;
-        color: #fff;
-        border-radius: 8px;
-        /* text-align: center; */
-      }
-    .converter {
-      display: flow;
-      align-items: center;
-    }
-    .container {
-      width: 85%;
-      background-color: #8488c959;
-      box-shadow: 10px 10px 53px rgba(0, 0, 0, 0.1);
-      padding: 30px;
-      border-radius: 13px;
-      display:block;
-      grid-template-columns: 1fr;
-      grid-gap: 20px;
-      justify-items: center;
-    }
-    select {
-      font-size: 1.1rem;
-      margin-left:34%;
-      margin-top: 7%;
-      padding: 10px;
-      border: none;
-      background-color: #7c6acc;
-      color: #ffffff;
-      border-radius: 7px;
-      
-      cursor: pointer;
-      transition: background-color 0.3s ease;
-    }
-  }
-  @media screen and (max-width:400px) {
+  
+  @media screen and (max-width:650px) {
     
   .output {
     display: flex;
