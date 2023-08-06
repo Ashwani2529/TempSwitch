@@ -1,1 +1,2 @@
-# TempSwitch
+# Temp Switch
+Introducing "Temp Switch" - The Instant Temperature Converter!  Temp Switch is a powerful and swift online tool that enables seamless temperature conversion between Celsius, Fahrenheit, and Kelvin. With just a switch, witness the magic as temperatures transform before your eyes. Whether you're planning a trip, studying weather patterns, or simply curious, Temp Switch makes converting temperatures a breeze. Embrace the efficiency and ease of Temp Switch for all your temperature needs. No more guesswork - simply switch and convert!
